@@ -1,0 +1,12 @@
+{
+  "name": "itmar-block",
+  "version": "1.0.0",
+  "description": "Gutenbergのブロック開発に必要なReactコンポーネントのうち、サイドバーにコントロール等をレンダリングする機能を持ったものをnpmのパッケージにまとめました。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
